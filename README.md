@@ -333,4 +333,6 @@ public class Teste {
          }
     }    
 }
-
+```
+#### Class Diagram
+![ClassDiagram](https://user-images.githubusercontent.com/84019433/130453323-c473f5e9-68f6-43bf-bff6-5f3472fe718a.png)
